@@ -8,9 +8,9 @@
 
 // Database configuration 
 $db_host     = "127.0.0.1"; 
-$db_username = "admin"; 
-$db_password = "1533"; 
-$db_name     = "stackoverflow_tests"; 
+$db_username = "your-db-user"; 
+$db_password = "your-db-password"; 
+$db_name     = "your-db-name"; 
  
 // Create database connection 
 $db = new mysqli($db_host, $db_username, $db_password, $db_name); 
