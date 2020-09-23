@@ -1,0 +1,12 @@
+{
+	"messages": {
+		"has_blank_fields": "Por favor preencha todos os campos.",
+		"has_invalid_email": "O e-mail informado parece inválido.",
+		"has_invalid_phone": "O telefone informado parece inválido.",
+		"has_no_attachment": "Parece que você esqueceu de anexar seu arquivo.",
+		"has_invalid_attachment_type": "Só é permitido o envio de arquivos nos formatos: pdf, doc, docx, odt, txt.",
+        "has_invalid_attachment_size": "O anexo deve ter no máximo 500KB de tamanho.",
+        "email_sent_successfully": "Sua mensagem foi enviada com sucesso!",
+        "sending_failed": "A mensagem não pode ser enviada devido a uma falha temporária. Por favor tente novamente em alguns minutos."
+	}
+}
